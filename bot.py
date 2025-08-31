@@ -1,7 +1,6 @@
-import logging
-from telegram import Update, ParseMode
+import random
+from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
-import time
 
 # ================= CONFIG =================
 BOT_TOKEN = "8423240758:AAE6gyDHVjs-Y0TQET0ayfUJhmCUQN1WnEk"  # Replace with your bot token
