@@ -3,9 +3,9 @@ from telebot import types
 from datetime import datetime, timedelta
 
 # === CONFIG ===
-TOKEN = "YOUR_BOT_TOKEN"
-target_channel = "@your_channel"
-OWNER_ID = 123456789
+TOKEN = "8423240758:AAE6gyDHVjs-Y0TQET0ayfUJhmCUQN1WnEk"
+target_channel = "@SexyEmoji"
+OWNER_ID = 8290519229
 
 bot = telebot.TeleBot(TOKEN)
 
