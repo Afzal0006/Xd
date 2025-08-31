@@ -4,9 +4,9 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 import time
 
 # ================= CONFIG =================
-BOT_TOKEN = "YOUR_BOT_TOKEN"  # Replace with your bot token
-LOG_CHANNEL_ID = -1001234567890  # Replace with your log channel ID
-OWNER_ID = 123456789  # Replace with your Telegram user ID (owner)
+BOT_TOKEN = "8423240758:AAE6gyDHVjs-Y0TQET0ayfUJhmCUQN1WnEk"  # Replace with your bot token
+LOG_CHANNEL_ID = -1002829010235  # Replace with your log channel ID
+OWNER_ID = 8290519229  # Replace with your Telegram user ID (owner)
 
 # Admin & user data storage
 ADMINS = set()
