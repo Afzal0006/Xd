@@ -3,9 +3,9 @@ import time
 from collections import defaultdict
 
 # === CONFIG ===
-TOKEN = "YOUR_BOT_TOKEN"   # BotFather token
+TOKEN = "7643831340:AAGieuPJND4MekAutSf3xzta1qdoKo5mbZU"   # BotFather token
 target_channel = "@your_channel"  # logs channel
-OWNER_ID = 123456789  # your Telegram ID
+OWNER_ID = 6998916494  # your Telegram ID
 
 bot = telebot.TeleBot(TOKEN)
 
